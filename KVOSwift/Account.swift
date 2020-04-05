@@ -8,6 +8,7 @@
 
 import UIKit
 
+
 class Account: NSObject {
     
     // 一、@objc应用于函数是为了能够让函数表达为 #selector;
